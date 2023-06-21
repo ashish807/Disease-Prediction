@@ -1,5 +1,7 @@
 # Disease-Prediction
 
+Academic Project
+
 Please find the dataset [here](https://github.com/ashish807/Disease-Prediction/blob/master/cleaned_data1.xlsx) 
 
 This project was creater so that normal person can know what he is suffering from when there is a certain symptoms, so that he will go hospital immediately.
